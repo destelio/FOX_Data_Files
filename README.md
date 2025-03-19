@@ -21,12 +21,11 @@ Here are a few reasons why documentation is important in software development:
 
 Overall, documentation is an important part of the software development process that can help to ensure that software applications are well-designed, easy to understand, and maintainable over time. While documentation can require additional time and resources during the development process, the benefits of well-documented software can far outweigh the costs.
 
-
 <h3>Mistake Spotted!</h3>
 <p>Here I am just exporting some csv files in order to make them visible to my colleagues.
 As it has been noticed, there has been an error, I publish them here so that I can explain the error to my teammates.
 Error was spotted in the "area" column and needs to be corrected in all future (web) data extractions from this particular source.
-As it has been noted the error is not crucial and the incorrectly extracted data can be easily replacbes as teh correct dat can be found under "title dos" by stripping the first part accordingly.
+As it has been noted the error is not crucial and the incorrectly extracted data can be easily replaced as the correct data can be found under "title dos" by stripping the first part accordingly.
 </p>
 
 
