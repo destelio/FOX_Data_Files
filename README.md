@@ -1,7 +1,7 @@
 
 <H2>Rationale:Availability and Visibility</H2>
 
-As per <a href="https://www.quora.com/What-is-the-importance-of-documentation-in-software-development">Some Answers in Quora...</a>
+As per Cooper's:<a href="https://www.quora.com/What-is-the-importance-of-documentation-in-software-development">Some Answers in Quora...</a>
 
 Documentation is an essential part of the software development process, as it helps to ensure that software applications are well-designed, easy to understand, and maintainable over time. 
 Here are a few reasons why documentation is important in software development:
