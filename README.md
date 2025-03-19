@@ -25,7 +25,7 @@ Overall, documentation is an important part of the software development process 
 <h3>Mistake Spotted!</h3>
 <p>Here I am just exporting some csv files in order to make them visible to my colleagues.
 As it has been noticed, there has been an error, I publish them here so that I can explain the error to my teammates.
-Error was spotted in the "area" column and needs to be corrected in all futire data web data extractions from this particuylar source.
+Error was spotted in the "area" column and needs to be corrected in all future (web) data extractions from this particular source.
 As it has been noted the error is not crucial and the incorrectly extracted data can be easily replacbes as teh correct dat can be found under "title dos" by stripping the first part accordingly.
 </p>
 
